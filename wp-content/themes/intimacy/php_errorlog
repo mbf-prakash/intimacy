@@ -1,0 +1,29 @@
+[26-Jul-2019 07:36:37 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[26-Jul-2019 08:45:58 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[26-Jul-2019 09:34:16 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[27-Jul-2019 06:47:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/uat67151/public_html/wp-content/themes/intimacy/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uat67151/public_html/wp-content/themes/intimacy/index.php on line 7
+[27-Jul-2019 07:02:18 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[27-Jul-2019 07:02:54 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[28-Jul-2019 02:37:31 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[28-Jul-2019 05:09:22 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[28-Jul-2019 05:16:35 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[29-Jul-2019 08:28:25 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[31-Jul-2019 00:14:24 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[31-Jul-2019 00:15:04 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[31-Jul-2019 00:18:03 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[31-Jul-2019 00:22:16 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 05:19:56 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 05:24:05 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 05:34:17 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 07:09:28 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 07:09:30 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 08:56:17 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 08:56:29 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 09:04:33 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[05-Aug-2019 09:12:42 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[06-Aug-2019 06:21:01 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[06-Aug-2019 07:31:55 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85
+[06-Aug-2019 08:43:58 CST6CDT] PHP Notice:  Constant WP_DEBUG already defined in /home/uat67151/public_html/wp-config.php on line 85

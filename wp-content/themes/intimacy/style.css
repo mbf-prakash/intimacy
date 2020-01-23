@@ -1,0 +1,297 @@
+/*****
+Theme Name: Intimacy
+Theme URI:
+Author: Madebyfire team
+Author URI: http://www.madebyfire.com/
+Description: Intimacy Theme designed and developed by madebyfire team.
+Version: 1.0
+*****/
+
+.stock_var span {
+   display: inline;
+   background: #f7cbcd;
+   color: #86181d;
+   padding-bottom: 0;
+   padding: 10px;
+   font-family: QuicksandMedium,sans-serif;
+}
+.stock_var{
+   margin-top: 20px;
+}
+.woocommerce-MyAccount-navigation{
+	display: none;
+}
+.theme-globalsucess {
+    background-color: #2a9d98;
+    color: #fff;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.product-cost-var{
+	display: none;
+}
+.woocommerce-remove-coupon{
+	display:none !important;
+}
+.sku_number{
+	display: none;
+}
+.color-pad-bg.active {
+
+}
+.theme-globalerror {
+    background-color: red;
+    color: #fff;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.breadcrumb-btm,.woocommerce-info,.woocommerce-shipping-fields,.woocommerce-additional-fields{
+	display: none !important;
+}
+
+.form-row .error-messages {
+   color: red;
+   display: none;
+   padding: 7px 0 0;
+}
+.error-messages {
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0;
+}
+.myaccount-section  #formsection{
+ margin-top: 50px;
+}
+@media screen and (max-width: 640px){
+
+#formsection h1, #formsection p{
+ text-align: left;
+}
+}
+p:empty { display: none }
+
+#billing_country-button{
+  display: none;
+}
+/* .forgot:before, .underline:before {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background-color: #262626;
+    bottom: 0;
+	width: 100%;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+} */
+.tryagain {
+    font-size: 14px;
+}
+.tryagain {
+    background: #000;
+    box-shadow: 0 -2px 0 0 #000, 0 2px 0 0 #000;
+    border-top: 5px solid #fff;
+    border-bottom: 5px solid #fff;
+    color: #fff;
+    display: none;
+    padding: 10px 20px;
+    text-align: center;
+}
+.tryagain a {
+    text-decoration: none;
+    color: #fff;
+}
+.preloader-black {
+    background-color: white;
+    display: none;
+    position: absolute;
+    margin: 0 auto;
+    z-index: 99;
+    top: 0;
+    right: 0;
+    height: 50px;
+    width: 130px;
+    background-image: url(../intimacy/images/preloader-black.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    -moz-background-size: inherit;
+    -o-background-size: inherit;
+    -webkit-background-size: inherit;
+    background-size: inherit;
+}
+#woocart .theme-globalerror, .payment-chkout .theme-globalerror {
+    display: none;
+}
+  #payment
+  {
+    display: none !important;
+  }
+  .woocommerce-shipping-fields
+  {
+    display: none !important;
+  }
+  #tab-shopping
+  {
+    display: none !important;
+  }
+  .payg-select{
+    display: none;
+  }
+.content .content:before{
+    display: none !important;
+}
+.content .content:after{
+  display: none !important;
+}
+
+  .payment-chkout .woocommerce-notices-wrapper{
+
+display: none;
+  }
+  .theme-globalsucess i {
+    cursor: pointer;
+    position: absolute;
+    font-size: 16px;
+    margin-top: -9px;
+    right: 10px;
+    top: 50%;
+}
+.error-pass{
+color: red;
+    position: relative;
+    margin-top: -45px;
+    padding-bottom: 15px;
+    font-size: 14px;
+}
+.form-row .error-message {
+    text-align: left;
+}
+.register.center-block .woocommerce-notices-wrapper{
+display: none;
+}
+@media screen and (max-width: 640px){
+  .cart-table .cart-list {
+    border-bottom: 1px solid #262626 !important;
+  }
+		#contact_us_frm .checkboxradio-label {
+	padding-left: 33px;
+}
+	.radio_check {
+    padding-right: 5px !important;
+}
+	#discountTr .no-desc {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+	#discountTr td:before {
+    padding-left: 20px;
+  }
+}
+.ui-menu .ui-menu-item-wrapper{
+	text-align:left;
+}
+.loader{
+	position:relative;
+}
+.loader:before{
+	content:"";
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('images/pageload.gif') 50% 50% no-repeat transparent;
+    opacity: 1;
+}
+.loader:after{
+	content:"";
+	position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9998;
+	background-color:white;
+}
+.notification-bar{
+	display:none;
+}
+.footer-social a i {
+    background-color: #00a29a !important;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.footer-social a {
+    color: #fff;
+}
+.breadcrumbs li span{
+	font-weight: 400;
+	color: #3b4040;
+	font-family:Quicksand-Bold,sans-serif;
+}
+.loadershow{
+	position:relative;
+}
+.loadershow:before{
+	content:"";
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('images/loading.gif') 50% 50% no-repeat transparent;
+    opacity: 1;
+}
+.loadershow:after{
+	content:"";
+	position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9998;
+  background-color:#f3f3f1;
+  opacity: 0.7;
+}
+.form-check-inline {
+    display: inline-flex !important;
+}
+.radio_check{
+  padding-right: 10px;
+}
+.productnotmatching{
+  margin-top: 15%;
+  color: #409d98;
+  padding: 20px 45px;
+}
+#product_loader img{
+	position:relative;
+	display: block;
+    margin: 0 auto;
+}
+
